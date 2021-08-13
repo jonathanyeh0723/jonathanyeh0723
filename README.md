@@ -1,4 +1,5 @@
 ### Hello World 👋🌍
+![](https://komarev.com/ghpvc/?username=Simsalabim1&label=profile+visitors+🍰)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanyeh0723&label=profile+visitors+🍰)](https://github.com/anuraghazra/github-readme-stats)
 
 
