@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jonathanyeh0723&hide=contribs,prs&count_private=true&show_icons=true&theme=react" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathanyeh0723&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathanyeh0723&repo=meme-generator)](https://github.com/jonathanyeh0723/meme-generator)
 
 
 
