@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://komarev.com/ghpvc/?username=jonathanyeh0723&label=profile+views+🌍&style=plastic)
+![](https://komarev.com/ghpvc/?username=jonathanyeh0723&label=visitors+🌍&style=plastic)
 
 AI Data Scientist | Technical Trainer<br>
 Certified TensorFlow & Intel® Edge AI Developer, RHCE, PMP® 
