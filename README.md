@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=jonathanyeh0723&label=visitors+🌍&style=plastic)
 
 Data Scientist | AI Advocate | Technical Trainer<br>
-Certified TensorFlow & Intel® Edge AI Developer, RHCE, PMP® 
+Certified TensorFlow & Intel® Edge AI Developer, CKA, RHCE, PMP® 
 
 <!--
 **jonathanyeh0723/Jonathanyeh0723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
