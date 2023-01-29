@@ -17,7 +17,8 @@ Data Scientist | AI Evangelist | Technical Trainer<br>
 - :earth_americas: I love writing Python, playing Linux, leveraging Docker, deploying by using Kubernetes
 - :blush: Reported to be uxorious after marriage. Cat lover, especially for British Shorthair.
 
-![my_cat](./My_Cat_Neymar.png)
+![my_cat](./My_Cat_Neymar.png)![edge_ai_cat](./EdgeAIOV.gif)
+
 
 *Hobbies: Exercising, Reading, Journalizing, Meditating, Traveling..*
 
