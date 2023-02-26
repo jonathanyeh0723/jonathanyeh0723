@@ -4,7 +4,7 @@
 Keep practicing to get into the habit of embracing VUCA (Volatility, Uncertainty, Complexity, Ambiguity).:muscle:*
 
 ## About me ...<br>
-Data Scientist | AI Evangelist | Technical Trainer<br>
+Software Technical Application Manager | AI Advocate | Technology Trainer<br>
 
 :clap::clap::clap: **Certified ...**<br>
 [TensorFlow Developer](https://www.tensorflow.org/certificate), [Intel® Edge AI Developer](https://www.intel.com/content/www/us/en/developer/tools/devcloud/edge/learn/certification.html), [OpenCV Deep Learning with TensorFlow and Keras](https://opencv.org/courses/)<br>
