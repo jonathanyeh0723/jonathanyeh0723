@@ -1,7 +1,8 @@
 # Hi there! I'm Jonathan :)👋
 
 *Enjoy Life.:revolving_hearts: Lifelong learner.:running_man:<br>
-Keep practicing to get into the habit of embracing VUCA (Volatility, Uncertainty, Complexity, Ambiguity).:muscle:*
+Keep practicing to get into the habit of embracing VUCA (Volatility, Uncertainty, Complexity, Ambiguity).:muscle:<br>
+Dedicating to advocate DIB (Diversity, Inclusion, Belonging)🌱*
 
 ## About me ...<br>
 Software Technical Application Manager | AI Advocate | Technology Trainer<br>
