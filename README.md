@@ -18,6 +18,8 @@ Software Technical Application Manager | AI Advocate | Technology Trainer<br>
 - :earth_americas: I love writing Python, playing Linux, leveraging Docker, deploying by using Kubernetes
 - :blush: Reported to be uxorious after marriage. Cat lover, especially for British Shorthair.
 
+Attempting to find some time to renew the existing repo with updated API…:popcorn:
+
 ![my_cat](./My_Cat_Neymar.png)![edge_ai_cat](./EdgeAIOV.gif)
 
 
