@@ -11,14 +11,14 @@ Software Technical Application Manager | AI Advocate | Technology Trainer<br>
 [TensorFlow Developer](https://www.tensorflow.org/certificate), [Intel® Edge AI Developer](https://www.intel.com/content/www/us/en/developer/tools/devcloud/edge/learn/certification.html), [OpenCV Deep Learning with TensorFlow and Keras](https://opencv.org/courses/)<br>
 [CKA](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)/[CKAD](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)/[CKS](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/), [RHCE](https://www.redhat.com/en/services/training/ex294-red-hat-certified-engineer-rhce-exam-red-hat-enterprise-linux-8), [PMP®](https://www.pmi.org/certifications/project-management-pmp#) :clap::clap::clap:<br>
 
-:point_right:[View](https://www.credly.com/users/tung-chiang-yeh/badges) my earned badges from Credly:beginner::hugs:✨
+:point_right:[View](https://www.credly.com/users/tung-chiang-yeh/badges) my earned badges from Credly✌️✌️✌️✨
 
 
 - :necktie: Technical Manager at [WPG Holdings](https://www.wpgholdings.com/)
 - :earth_americas: I love writing Python, playing Linux, leveraging Docker, deploying by using Kubernetes
 - :blush: Reported to be uxorious after marriage. Cat lover, especially for British Shorthair.
 
-Attempting to find some time to renew the existing repo with updated API…:pizza:
+Attempting to find some time to renew the existing repo with updated API…🍕
 
 ![ov_2023](./ov_2023_visualai_aigc.gif)
 
