@@ -18,7 +18,7 @@ Software Technical Application Manager | AI Advocate | Technology Trainer<br>
 - :earth_americas: I love writing Python, playing Linux, leveraging Docker, deploying by using Kubernetes
 - :blush: Reported to be uxorious after marriage. Cat lover, especially for British Shorthair.
 
-Attempting to find some time to renew the existing repo with updated API…:popcorn:
+Attempting to find some time to renew the existing repo with updated API…:pizza:
 
 ![ov_2023](./ov_2023_visualai_aigc.gif)
 
