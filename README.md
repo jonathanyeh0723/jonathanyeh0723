@@ -20,7 +20,7 @@ Software Technical Application Manager | AI Advocate | Technology Trainer<br>
 
 Attempting to find some time to renew the existing repo with updated API…:popcorn:
 
-![my_cat](./My_Cat_Neymar.png)![edge_ai_cat](./EdgeAIOV.gif)
+![my_cat](./My_Cat_Neymar.png)![ov_2023](./ov_2023_visualai_aigc.gif)
 
 
 *Hobbies: Exercising, Reading, Journalizing, Meditating, Traveling..*
