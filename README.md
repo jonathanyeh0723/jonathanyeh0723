@@ -8,8 +8,9 @@ Dedicating to advocate DIB (Diversity, Inclusion, Belonging)🌱*
 Software Technical Application Manager | AI Advocate | Technology Trainer<br>
 
 :clap::clap::clap: **Certified ...**<br>
-[TensorFlow Developer](https://www.tensorflow.org/certificate), [Intel® Edge AI Developer](https://www.intel.com/content/www/us/en/developer/tools/devcloud/edge/learn/certification.html), [Intel® Certified Developer—MLOps Professional
-](https://www.intel.com/content/www/us/en/developer/certification/mlops.html), [OpenCV Deep Learning with TensorFlow and Keras](https://opencv.org/courses/)<br>
+[TensorFlow Developer](https://www.tensorflow.org/certificate), [OpenCV Deep Learning with TensorFlow and Keras](https://opencv.org/courses/)<br>
+[Intel® Edge AI Developer](https://www.intel.com/content/www/us/en/developer/tools/devcloud/edge/learn/certification.html), [Intel® Certified Developer-MLOps Professional
+](https://www.intel.com/content/www/us/en/developer/certification/mlops.html)<br>
 [CKA](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)/[CKAD](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)/[CKS](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/), [RHCE](https://www.redhat.com/en/services/training/ex294-red-hat-certified-engineer-rhce-exam-red-hat-enterprise-linux-8), [PMP®](https://www.pmi.org/certifications/project-management-pmp#) :clap::clap::clap:<br>
 
 :point_right:[View](https://www.credly.com/users/tung-chiang-yeh/badges) my earned badges from Credly✌️✌️✌️✨
