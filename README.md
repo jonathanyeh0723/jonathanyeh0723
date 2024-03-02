@@ -1,8 +1,8 @@
 # Hi there! I'm Jonathan :)👋
 
-*Enjoy Life.:revolving_hearts: Lifelong learner.:running_man:<br>
-Keep practicing to get into the habit of embracing VUCA (Volatility, Uncertainty, Complexity, Ambiguity).:muscle:<br>
-Dedicating to advocate DIB (Diversity, Inclusion, Belonging)🌱*
+**Enjoy Life.😊🌍 Lifelong learner.🗻<br>
+Keep practicing to get into the habit of embracing VUCA (Volatility, Uncertainty, Complexity, Ambiguity).💪<br>
+Dedicating to advocate DIB (Diversity, Inclusion, Belonging)🌱**
 
 ## About me ...<br>
 Software Technical Application Manager | AI Advocate | Technology Trainer<br>
@@ -13,7 +13,7 @@ Software Technical Application Manager | AI Advocate | Technology Trainer<br>
 ](https://www.intel.com/content/www/us/en/developer/certification/mlops.html)<br>
 [CKA](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)|[CKAD](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)|[CKS](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/), [RHCE](https://www.redhat.com/en/services/training/ex294-red-hat-certified-engineer-rhce-exam-red-hat-enterprise-linux-8), [PMP®](https://www.pmi.org/certifications/project-management-pmp#) :clap::clap::clap:<br>
 
-:point_right:[View](https://www.credly.com/users/tung-chiang-yeh/badges) my earned badges from Credly✌️✌️✌️✨
+:point_right:[View](https://www.credly.com/users/tung-chiang-yeh/badges) my earned badges from Credly👏✨
 
 
 - :necktie: Technical Manager at [WPG Holdings](https://www.wpgholdings.com/)
