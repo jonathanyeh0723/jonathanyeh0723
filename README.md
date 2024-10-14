@@ -16,7 +16,7 @@ Generative AI, DevOps | Technical Trainer | Data Scientist | Certified TensorFlo
 :point_right:[View](https://www.credly.com/users/tung-chiang-yeh/badges) my earned badges from Credly👏✨
 
 
-- :necktie: Technical Manager at [WPG Holdings](https://www.wpgholdings.com/)
+- :necktie: Senior DevOps/Python Software Engineer at [WPG Holdings](https://www.wpgholdings.com/)
 - :earth_americas: I love writing Python, playing Linux, leveraging Docker, deploying by using Kubernetes
 - :blush: Reported to be uxorious after marriage. Cat lover, especially for British Shorthair.
 
