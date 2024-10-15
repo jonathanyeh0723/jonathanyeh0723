@@ -5,7 +5,7 @@ Keep practicing to get into the habit of embracing VUCA (Volatility, Uncertainty
 Dedicating to advocate DIB (Diversity, Inclusion, Belonging)🌱**
 
 ## About me ...<br>
-Generative AI, DevOps | Technical Trainer | Data Scientist | Certified TensorFlow Developer | Intel Edge AI & MLOps Professional | OpenCV TF Honorable Certificate | CNCF: CKA, CKAD, CKS, KCNA | RHCE | PMP<br>
+Generative AI, DevOps | Technical Trainer | Data Scientist | CNCF: CKA, CKAD, CKS, KCNA | RHCE | Edge AI & MLOps Professional | Certified TensorFlow Developer | OpenCV TF Honorable Certificate | PMP<br>
 
 :clap::clap::clap: **Certified ...**<br>
 [TensorFlow Developer](https://www.tensorflow.org/certificate), [OpenCV Deep Learning with TensorFlow and Keras](https://opencv.org/courses/)<br>
