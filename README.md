@@ -4,13 +4,16 @@
 Keep practicing to get into the habit of embracing VUCA (Volatility, Uncertainty, Complexity, Ambiguity).💪<br>
 Dedicating to advocate DIB (Diversity, Inclusion, Belonging)🌱**
 
-💞 Enjoy Life.
+💞 Enjoy Life. Lifelong learner. 😊🗻🌍
 
 💡 Always learning. Always innovating. Let’s connect and build the future with AI & DevOps.
 
 🚀 AI | Generative AI | DevOps | MLOps | Edge AI
 
 Passionate about AI-driven innovation, cloud-native DevOps, and MLOps automation - bridging the gap between cutting-edge AI models and scalable deployment. I thrive in fast-paced environments, leveraging Generative AI, Deep Learning, and DevOps best practices to support customer to build intelligent, production-ready solutions.
+
+**Keep practicing to get into the habit of embracing VUCA (Volatility, Uncertainty, Complexity, Ambiguity).💪<br>
+Dedicating to advocate DIB (Diversity, Inclusion, Belonging)🌱**
 
 ## About me ...<br>
 Generative AI, DevOps | Technical Trainer | Data Scientist | CNCF Kubestronaut: CKA, CKAD, CKS, KCNA, KCSA | RHCE | Edge AI & MLOps Professional | Certified TensorFlow Developer | OpenCV TF Honorable Certificate | PMP<br>
